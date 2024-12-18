@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Evaporator;
+namespace BeastBytes\Evaporator;
 
 interface EvaporatorInterface
 {
