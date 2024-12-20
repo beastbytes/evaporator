@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace BeastBytes\Evaporator;
 
 use AllowDynamicProperties;
-use App\Evaporator\AttributeHandling\ColumnAttributesHandler;
+use BeastBytes\Evaporator\AttributeHandling\ColumnAttributesHandler;
 use ReflectionClass;
 use Yiisoft\Hydrator\AttributeHandling\ResolverFactory\ReflectionAttributeResolverFactory;
 
